@@ -15,7 +15,6 @@ Hi, there, I'm Lasantha 👋<br><br>I am a data science undergraduate at Univers
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LasaK97&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
