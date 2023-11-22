@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, there, I'm Lasantha 👋<br><br>I am a data science undergraduate at University of Peradeniya with a passion for finding data driven solutions for real-world problems. I am proficient in Python, R, and SQL, and I have experience with a variety of machine learning and data mining algorithms. I am also familiar with data visualization techniques and I am always looking for new ways to communicate data effectively.
+Hi, there, I'm Lasantha 👋<br><br>I am a data science undergraduate at University of Peradeniya with a passion for finding data driven solutions for real-world problems. I am proficient in Python, R, Java and SQL nad NoSQL Database management languages, and I have experience with a variety of machine learning, deep learning and data mining algorithms. I am also familiar with data visualization techniques and I am always looking for new ways to communicate data effectively.
 
 
 ## 🌐 Socials:
